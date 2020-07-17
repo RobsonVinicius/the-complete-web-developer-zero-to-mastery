@@ -4,10 +4,38 @@
  
  #### COURSE CURRICULUM
 
-### Introduction 
-• Course Outline<br/>
-• Join Our Online Classroom!<br/>
-• Exercise: Meet The Community<br/>
-• Join Our Open Source Projects!<br/>
+• Introduction 
+• How The Internet Works
+• History of the Web
+• HTML 5
+• Advanced HTML 5
+• CSS
+• Advanced CSS
+• Bootstrap, Templates, And Building Your Startup Landing Page
+• CSS Grid + CSS Layout
+• Career of A Web Developer
+• Javascript
+• DOM Manipulation
+• Advanced Javascript
+• Command Line
+• Developer Environment
+• Git + Github + Open Source Projects
+• A Day In The Life of a Developer
+• NPM + NPM Scripts
+• React.js + Redux
+• HTTP/JSON/AJAX + Asysnchronous Javascript
+• Backend Introduction
+• APIs
+• Final Project: SmartBrain Front-End
+• Node.js + Express.js
+• Final Project: SmartBrain Back-End --Server
+• Databases
+• Final Project: SmartBrain Back-End --Database
+• Production + Deployment
 
-### How The Internet Works
+
+
+
+
+
+
