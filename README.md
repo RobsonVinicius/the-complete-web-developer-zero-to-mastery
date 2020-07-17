@@ -4,33 +4,33 @@
  
  #### COURSE CURRICULUM
 
-• Introduction 
-• How The Internet Works
-• History of the Web
-• HTML 5
-• Advanced HTML 5
-• CSS
-• Advanced CSS
-• Bootstrap, Templates, And Building Your Startup Landing Page
-• CSS Grid + CSS Layout
-• Career of A Web Developer
-• Javascript
-• DOM Manipulation
-• Advanced Javascript
-• Command Line
-• Developer Environment
-• Git + Github + Open Source Projects
-• A Day In The Life of a Developer
-• NPM + NPM Scripts
-• React.js + Redux
-• HTTP/JSON/AJAX + Asysnchronous Javascript
-• Backend Introduction
-• APIs
-• Final Project: SmartBrain Front-End
-• Node.js + Express.js
-• Final Project: SmartBrain Back-End --Server
-• Databases
-• Final Project: SmartBrain Back-End --Database
+• Introduction<br/>
+• How The Internet Works<br/>
+• History of the Web<br/>
+• HTML 5<br/>
+• Advanced HTML 5<br/>
+• CSS<br/>
+• Advanced CSS<br/>
+• Bootstrap, Templates, And Building Your Startup Landing Page<br/>
+• CSS Grid + CSS Layout<br/>
+• Career of A Web Developer<br/>
+• Javascript<br/>
+• DOM Manipulation<br/>
+• Advanced Javascript<br/>
+• Command Line<br/>
+• Developer Environment<br/>
+• Git + Github + Open Source Projects<br/>
+• A Day In The Life of a Developer<br/>
+• NPM + NPM Scripts<br/>
+• React.js + Redux<br/>
+• HTTP/JSON/AJAX + Asysnchronous Javascript<br/>
+• Backend Introduction<br/>
+• APIs<br/>
+• Final Project: SmartBrain Front-End<br/>
+• Node.js + Express.js<br/>
+• Final Project: SmartBrain Back-End --Server<br/>
+• Databases<br/>
+• Final Project: SmartBrain Back-End --Database<br/>
 • Production + Deployment
 
 
