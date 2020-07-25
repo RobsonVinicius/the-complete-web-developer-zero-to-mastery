@@ -35,6 +35,9 @@
 
 
 
+NOTE: A base teorica deste curso será documentada na aba Wiki deste repositório
+
+
 
 
 
